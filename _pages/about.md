@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm a senior student from [School of Electronics Engineering and Computer Science](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), majoring in Computer Science. It's fortunate for me to work as an intern student at [STRUCT group](https://www.icst.pku.edu.cn/struct), [WICT](https://www.icst.pku.edu.cn/), guided by Prof. [Jiaying Liu](https://www.icst.pku.edu.cn/struct/people/liujiaying.html). Currently, my research interest lies in computer vision, especially action recognition and segmentation.
+I am a Ph.D. student at School of Computer Science in Peking University.
+I'm supervised by Prof. [Jiaying Liu](https://www.icst.pku.edu.cn/struct/people/liujiaying.html) and Prof. [Ling-Yu Duan](https://cs.pku.edu.cn/info/1089/1654.htm) at the [STRUCT group](https://www.icst.pku.edu.cn/struct), [WICT](https://www.icst.pku.edu.cn/), PKU. Currently my research interest lies in Computer Vision, especially human action understanding and video compression for machine.
 
 # Education
 Peking University
-- Undergraduate major in Computer Science and Technology, EECS (09/2021-present)
+- Bachelor major in Computer Science and Technology, EECS (09/2021-07/2025)
+- Ph.D. student at School of Computer Science (09/2025-present)
 
 # Experience
 Microsoft Research Asia
