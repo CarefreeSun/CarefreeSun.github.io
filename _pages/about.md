@@ -23,6 +23,8 @@ Microsoft Research Asia
 # Publication
 **Shaofan Sun**, Jiahang Zhang, Guo Tang, Chuanmin Jia, and Jiaying Liu. "Learning Discriminative and Robust Representations for UAV-View Skeleton-Based Action Recognition", in Proceedings of *IEEE International Conference on Multimedia and Expo Workshops (ICMEW)*, July 2024. [[paper]](https://ieeexplore.ieee.org/document/10645407) [[code]](https://github.com/CarefreeSun/MS-CTR-GCN)
 
+**Shaofan Sun**, Shuangming Ma, Han Chen, Ling-Yu Duan, and Jiaying Liu. "Enhanced Video Compression with Context-Aware Dynamic Neural Adapter", Accepted by *IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2026.
+
 # Contact
 
 Please send email to [carefree_sun@stu.pku.edu.cn](mailto:carefree_sun@stu.pku.edu.cn).
