@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shaofan Sun/Personal Homepage"
+title                    : "Shaofan Sun's Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Shaofan Sun(孙少凡)"
-  avatar           : "myphoto.png"
+  avatar           : "myphoto_2.png"
   bio              : "Peking University"
   location         : "Beijing, China"
   employer         :
