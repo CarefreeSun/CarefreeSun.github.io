@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a Ph.D. student at School of Computer Science in Peking University.
-I'm supervised by Prof. [Jiaying Liu](https://www.icst.pku.edu.cn/struct/people/liujiaying.html) and Prof. [Ling-Yu Duan](https://cs.pku.edu.cn/info/1089/1654.htm) at the [STRUCT group](https://www.icst.pku.edu.cn/struct), [WICT](https://www.icst.pku.edu.cn/), PKU. Currently my research interest lies in Computer Vision, especially human action understanding and video compression for machine.
+I'm supervised by Prof. [Jiaying Liu](http://39.96.165.147/people/liujiaying.html) and Prof. [Ling-Yu Duan](https://cs.pku.edu.cn/info/1089/1654.htm) at the [STRUCT group](https://www.icst.pku.edu.cn/struct), [WICT](https://www.icst.pku.edu.cn/), PKU. Currently my research interest lies in Computer Vision, especially human action understanding and video compression for machine.
 
 # Education
 Peking University
@@ -24,7 +24,7 @@ Microsoft Research Asia
 
 **Shaofan Sun**, Lilang Lin, Jiahang Zhang, Ling-Yu Duan, and Jiaying Liu. "Local Dimension Enhancement Representation Learning for Skeleton-Based Action Segmentation", Accepted by *IEEE Trans. on Image Processing (TIP)*, 2026. [[page]](https://carefreesun.github.io/LoDE_TIP_2026/)
 
-**Shaofan Sun**, Shuangming Ma, Han Chen, Ling-Yu Duan, and Jiaying Liu. "Enhanced Video Compression with Context-Aware Dynamic Neural Adapter", Accepted by *IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2026.
+**Shaofan Sun**, Shuangming Ma, Han Chen, Ling-Yu Duan, and Jiaying Liu. "Enhanced Video Compression with Context-Aware Dynamic Neural Adapter", Accepted by *IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, **Oral**, 2026.
 
 **Shaofan Sun**, Jiahang Zhang, Guo Tang, Chuanmin Jia, and Jiaying Liu. "Learning Discriminative and Robust Representations for UAV-View Skeleton-Based Action Recognition", in Proceedings of *IEEE International Conference on Multimedia and Expo Workshops (ICMEW)*, July 2024. [[paper]](https://ieeexplore.ieee.org/document/10645407) [[code]](https://github.com/CarefreeSun/MS-CTR-GCN)
 
