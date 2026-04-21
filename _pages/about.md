@@ -22,7 +22,7 @@ Microsoft Research Asia
 
 # Publication
 
-**Shaofan Sun**, Lilang Lin, Jiahang Zhang, Ling-Yu Duan, and Jiaying Liu. "Local Dimension Enhancement Representation Learning for Skeleton-Based Action Segmentation", Accepted by *IEEE Trans. on Image Processing (TIP)*, 2026. [[page]](https://carefreesun.github.io/LoDE_TIP_2026/)
+**Shaofan Sun**, Lilang Lin, Jiahang Zhang, Ling-Yu Duan, and Jiaying Liu. "Local Dimension Enhancement Representation Learning for Skeleton-Based Action Segmentation", Accepted by *IEEE Trans. on Image Processing (TIP)*, 2026. [[paper]](https://ieeexplore.ieee.org/document/11481594)[[page]](https://carefreesun.github.io/LoDE_TIP_2026/)
 
 **Shaofan Sun**, Shuangming Ma, Han Chen, Ling-Yu Duan, and Jiaying Liu. "Enhanced Video Compression with Context-Aware Dynamic Neural Adapter", Accepted by *IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, **Oral**, 2026.
 
